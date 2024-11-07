@@ -1,5 +1,6 @@
 My Data Analytics Portfolio
 
-#Education
+Education
+Pace University Masters in Information Systems
 
-#Projects
+Projects
