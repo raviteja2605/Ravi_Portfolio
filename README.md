@@ -32,7 +32,7 @@
 ### Projects
 
 - **UniFinder** (Jan 2023 – May 2023)  
-  Developed a university selection tool using Python, utilizing libraries like pandas for data manipulation to streamline university options for students.
+  Developed a university selection tool using Python, utilizing libraries like **pandas** for data manipulation to streamline university options for students.
 
 - **House Rental Management** (Jan 2023 – May 2023)  
   Created a MySQL-backed platform for managing rental billing, leases, and utilities, improving transaction efficiency and data storage.
