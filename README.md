@@ -1,5 +1,5 @@
 # Ravi Teja Pakanati
-**Jersey City, NJ**  
+**Jersey City, New Jersey.**  
 
 - **Email:** [praviteja2605@gmail.com](mailto:praviteja2605)
 - **LinkedIn:** [linkedin.com/in/ravitejapakanati](https://www.linkedin.com/in/ravitejapakanati)  
