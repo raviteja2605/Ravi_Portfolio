@@ -1,9 +1,9 @@
 # Ravi Teja Pakanati
 
 **Jersey City, NJ**  
-**Email:** [rp18841n@pace.edu](mailto:rp18841n@pace.edu)  / [praviteja2605@gmail.com](mailto:praviteja2605)
+**Email:** [praviteja2605@gmail.com](mailto:praviteja2605)
 **LinkedIn:** [linkedin.com/in/ravitejapakanati](https://www.linkedin.com/in/ravitejapakanati)  
-**Leetcode:** [https://leetcode.com/u/RaviTejaPakanati/]
+**Leetcode:** [leetcode.com/u/RaviTejaPakanati](https://leetcode.com/u/RaviTejaPakanati)
 
 ---
 
