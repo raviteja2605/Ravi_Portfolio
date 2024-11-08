@@ -1,8 +1,9 @@
 # Ravi Teja Pakanati
 
 **Jersey City, NJ**  
-**Email:** [rp18841n@pace.edu](mailto:rp18841n@pace.edu)  
+**Email:** [rp18841n@pace.edu](mailto:rp18841n@pace.edu)  / [praviteja2605@gmail.com](mailto:praviteja2605)
 **LinkedIn:** [linkedin.com/in/ravitejapakanati](https://www.linkedin.com/in/ravitejapakanati)  
+**Leetcode:** [https://leetcode.com/u/RaviTejaPakanati/]
 
 ---
 
@@ -10,7 +11,7 @@
 
 - **Pace University, Seidenberg School of Computer Science and Information Systems**  
   *M.S. in Information Systems, Concentration: Database Management Systems*  
-  **Honors:** Scholarship ($9,200)  
+  **Honors:** Scholarship ($9,200)  **CGPA:3.9**
   **Expected Graduation:** December 2024
 
 - **Vardhaman College of Engineering, Hyderabad, India**  
@@ -23,7 +24,7 @@
 
 - **Programming Languages:** Python
 - **Database Management:** MySQL
-- **Software / Tools:** SAP MM, ERP Systems
+- **Software / Tools:** SAP MM, ERP Systems, tableau, Excel
 - **Operating Systems:** Windows Server, MacOS
 
 ---
@@ -49,14 +50,15 @@
   - Led project planning, improving efficiency by 30% with SAP MM for procurement and inventory management.
   - Enhanced operational efficiency, reducing costs by 20% and inventory excess by 50%.
   - Streamlined processes, improving invoice accuracy to 99%.
+  - 4+ Years hands-on Experience on Excel, SAP MM.
 
 ---
 
 ### Certifications
 
+- **Crash Course on Python** – Google (Oct 2023)  
 - **NoSQL Essential Training** – LinkedIn Learning (Jan 2023)  
 - **Learning MySQL Development** – LinkedIn Learning (Feb 2023)  
-- **Crash Course on Python** – Google (Oct 2023)  
 - **AWS Cloud Practitioner Program** – Amazon (Jan 2024)
 
 ---
