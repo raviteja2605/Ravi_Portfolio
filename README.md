@@ -44,13 +44,28 @@
 
 ### Professional Experience
 
-- **Project Engineer**  
-  *Research Centre Imarat (RCI/DRDO), Hyderabad, India*  
-  *Aug 2018 – Dec 2022*  
-  - Led project planning, improving efficiency by 30% with SAP MM for procurement and inventory management.
-  - Enhanced operational efficiency, reducing costs by 20% and inventory excess by 50%.
-  - Streamlined processes, improving invoice accuracy to 99%.
-  - 4+ Years hands-on Experience on Excel, SAP MM.
+- **Data Analyst**  
+  *Research Centre Imarat (RCI/DRDO), Hyderabad, India* 
+June 2018 - December 2019
+
+**Key Responsibilities:**
+*Data Collection & Processing:* Collected, cleaned, and processed large datasets from aerospace vehicle telemetry to ensure the data was accurate and consistent for analysis.
+*Statistical Analysis:* Utilized Python and R for statistical analysis, identifying key trends and correlations in flight test data to support design decisions.
+*Reporting & Visualization:* Created detailed reports and dashboards using Tableau to visualize complex datasets, assisting engineering teams in interpreting results from flight tests and aerospace performance data.
+*Collaboration:* Worked closely with engineers to derive actionable insights from data, contributing to system optimization and performance enhancements.
+*Database Management:* Managed large-scale databases, querying datasets stored in structured and unstructured formats, ensuring data accessibility and integrity.
+
+- **Data Engineer**
+  *Research Centre Imarat (RCI/DRDO), Hyderabad, India* 
+January 2020 - January 2023
+
+**Key Responsibilities:**
+*Data Pipeline Development:* Designed and developed scalable data pipelines using Python and SQL to process and analyze flight data, sensor data, and telemetry information from aerospace systems.
+*ETL Development:* Developed ETL (Extract, Transform, Load) processes for integrating data from various aerospace systems and ensuring the timely availability of high-quality data for analysis.
+*Data Integration:* Integrated real-time telemetry data into centralized storage systems, ensuring smooth data flows for further analysis and performance evaluation.
+*System Optimization:* Optimized data processing workflows to handle large volumes of aerospace data, improving processing speed and efficiency, especially for high-velocity flight data.
+*Cloud & Storage Solutions:* Implemented secure, distributed data storage solutions that adhered to DRDO’s security protocols for defense-related data.
+*Collaborative Projects:* Worked with aerospace engineers and researchers to analyze flight and vehicle data, providing essential insights that led to better decision-making in testing and system design.
 
 ---
 
