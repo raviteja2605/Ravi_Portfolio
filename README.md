@@ -72,7 +72,7 @@ January 2020 - January 2023
 ### Certifications
 
 - ![Logo](Google Analytics Certification_Ravi Teja.jp2)
-- ![Logo] (Coursera J55SSJSJL5A6.jp2)
+- ![Logo](Coursera J55SSJSJL5A6.jp2)
 - **Crash Course on Python** – Google (Oct 2023)  
 - **NoSQL Essential Training** – LinkedIn Learning (Jan 2023)  
 - **Learning MySQL Development** – LinkedIn Learning (Feb 2023)  
