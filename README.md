@@ -1,72 +1,81 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Ravi Teja Pakanati
+**Jersey City, New Jersey.**  
 
-> https://varadbhogayata.github.io
+- **Email:** [praviteja2605@gmail.com](mailto:praviteja2605)
+- **LinkedIn:** [linkedin.com/in/ravitejapakanati](https://www.linkedin.com/in/ravitejapakanati)  
+- **Leetcode:** [leetcode.com/u/RaviTejaPakanati](https://leetcode.com/u/RaviTejaPakanati)
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+---
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
+### Education
 
-:star: Star me on GitHub — it helps!
+- **Pace University, Seidenberg School of Computer Science and Information Systems**  
+  *M.S. in Information Systems, Concentration: Database Management Systems*  
+  **Honors:** Scholarship ($9,200)  **CGPA:3.9**
+  **Expected Graduation:** December 2024
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+- **Vardhaman College of Engineering, Hyderabad, India**  
+  *B.Tech in Mechanical Engineering*  
+  **Graduated:** June 2017
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+---
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+### Technical Skills
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+- **Programming Languages:** Python
+- **Database Management:** MySQL
+- **Software / Tools:** SAP MM, ERP Systems, tableau, Excel
+- **Operating Systems:** Windows Server, MacOS
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+---
 
-## Contributing 💡
-#### Step 1
+### Projects
 
-- **Option 1**
-    - 🍴 Fork this repo!
+- **UniFinder** (Jan 2023 – May 2023)  
+  Developed a university selection tool using Python, utilizing libraries like **pandas** for data manipulation to streamline university options for students.
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+- **House Rental Management** (Jan 2023 – May 2023)  
+  Created a MySQL-backed platform for managing rental billing, leases, and utilities, improving transaction efficiency and data storage.
 
+- **Print On-Demand Marketplace** (Sep 2023 – Dec 2023)  
+  Built "Print n Purchase," an e-commerce platform for T-shirt designers, applying the Systems Development Life Cycle (SDLC) for robust structure and efficient project management.
 
-#### Step 2
+---
 
-- **Build your code** 🔨🔨🔨
+### Professional Experience
 
-#### Step 3
+**Data Analyst**  
+  *Research Centre Imarat (RCI/DRDO), Hyderabad, India* 
+June 2018 - December 2019
 
-- 🔃 Create a new pull request.
+**Key Responsibilities:**
+*Data Collection & Processing:* Collected, cleaned, and processed large datasets from aerospace vehicle telemetry to ensure the data was accurate and consistent for analysis.
+*Statistical Analysis:* Utilized Python and R for statistical analysis, identifying key trends and correlations in flight test data to support design decisions.
+*Reporting & Visualization:* Created detailed reports and dashboards using Tableau to visualize complex datasets, assisting engineering teams in interpreting results from flight tests and aerospace performance data.
+*Collaboration:* Worked closely with engineers to derive actionable insights from data, contributing to system optimization and performance enhancements.
+*Database Management:* Managed large-scale databases, querying datasets stored in structured and unstructured formats, ensuring data accessibility and integrity.
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+**Data Engineer**
+  *Research Centre Imarat (RCI/DRDO), Hyderabad, India* 
+January 2020 - January 2023
+
+**Key Responsibilities:**
+*Data Pipeline Development:* Designed and developed scalable data pipelines using Python and SQL to process and analyze flight data, sensor data, and telemetry information from aerospace systems.
+*ETL Development:* Developed ETL (Extract, Transform, Load) processes for integrating data from various aerospace systems and ensuring the timely availability of high-quality data for analysis.
+*Data Integration:* Integrated real-time telemetry data into centralized storage systems, ensuring smooth data flows for further analysis and performance evaluation.
+*System Optimization:* Optimized data processing workflows to handle large volumes of aerospace data, improving processing speed and efficiency, especially for high-velocity flight data.
+*Cloud & Storage Solutions:* Implemented secure, distributed data storage solutions that adhered to DRDO’s security protocols for defense-related data.
+*Collaborative Projects:* Worked with aerospace engineers and researchers to analyze flight and vehicle data, providing essential insights that led to better decision-making in testing and system design.
+
+---
+
+### Certifications
+
+- ![Logo](Google Analytics Certification_Ravi Teja.jp2)
+- ![Logo](Coursera J55SSJSJL5A6.jp2)
+- **Crash Course on Python** – Google (Oct 2023)  
+- **NoSQL Essential Training** – LinkedIn Learning (Jan 2023)  
+- **Learning MySQL Development** – LinkedIn Learning (Feb 2023)  
+- **AWS Cloud Practitioner Program** – Amazon (Jan 2024)
+
+---
