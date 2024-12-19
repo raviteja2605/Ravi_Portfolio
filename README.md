@@ -44,7 +44,7 @@
 
 ### Professional Experience
 
-- **Data Analyst**  
+**Data Analyst**  
   *Research Centre Imarat (RCI/DRDO), Hyderabad, India* 
 June 2018 - December 2019
 
@@ -55,7 +55,7 @@ June 2018 - December 2019
 *Collaboration:* Worked closely with engineers to derive actionable insights from data, contributing to system optimization and performance enhancements.
 *Database Management:* Managed large-scale databases, querying datasets stored in structured and unstructured formats, ensuring data accessibility and integrity.
 
-- **Data Engineer**
+**Data Engineer**
   *Research Centre Imarat (RCI/DRDO), Hyderabad, India* 
 January 2020 - January 2023
 
@@ -71,8 +71,8 @@ January 2020 - January 2023
 
 ### Certifications
 
-Google Analytics Certification_Ravi Teja.jp2
-Coursera J55SSJSJL5A6.jp2
+- ![Logo](Google Analytics Certification_Ravi Teja.jp2)
+- ![Logo] (Coursera J55SSJSJL5A6.jp2)
 - **Crash Course on Python** – Google (Oct 2023)  
 - **NoSQL Essential Training** – LinkedIn Learning (Jan 2023)  
 - **Learning MySQL Development** – LinkedIn Learning (Feb 2023)  
