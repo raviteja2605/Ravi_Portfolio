@@ -31,9 +31,19 @@
 
 ### Projects
 
-- **UniFinder** (Jan 2023 – May 2023)  
-  Developed a university selection tool using Python, utilizing libraries like **pandas** for data manipulation to streamline university options for students.
+- **PowerCo Customer Retention Analysis (BCGX Data Science Job Simulation)** 	January 2025
+•	Designed and implemented scalable data pipelines using Python and SQL to process large datasets, ensuring high data quality and availability for analysis.
+•	Engineered features from raw customer and transactional data to uncover churn drivers, leveraging data modeling techniques to deliver actionable business insights.
+•	Built predictive models and simulated a real-world environment using big data technologies, focusing on performance optimization and integration into decision-making workflows. 
 
+- **UniFinder** (Jan 2023 – May 2023)  
+  Developed the “University Finder” program, a tool that streamlines the university selection process for students by filtering potential universities based  
+  on academic performance and IELTS scores.
+  Incorporated advanced Python programming techniques, including pandas library to load and manipulate data from an Excel file. repetition structures for 
+  input validation, decision structures for data standardization.
+
+
+  
 - **House Rental Management** (Jan 2023 – May 2023)  
   Created a MySQL-backed platform for managing rental billing, leases, and utilities, improving transaction efficiency and data storage.
 
