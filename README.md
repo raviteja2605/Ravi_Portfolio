@@ -60,11 +60,11 @@ January 2020 - January 2023
 June 2018 - December 2019
 
 **Key Responsibilities:**
-*Data Collection & Processing:* Collected, cleaned, and processed large datasets from aerospace vehicle telemetry to ensure the data was accurate and consistent for analysis.
-*Statistical Analysis:* Utilized Python and R for statistical analysis, identifying key trends and correlations in flight test data to support design decisions.
-*Reporting & Visualization:* Created detailed reports and dashboards using Tableau to visualize complex datasets, assisting engineering teams in interpreting results from flight tests and aerospace performance data.
-*Collaboration:* Worked closely with engineers to derive actionable insights from data, contributing to system optimization and performance enhancements.
-*Database Management:* Managed large-scale databases, querying datasets stored in structured and unstructured formats, ensuring data accessibility and integrity.
+*Data Collection & Processing:* Collected, cleaned, and processed large datasets from aerospace vehicle telemetry to ensure the data was accurate and consistent for analysis. 
+*Statistical Analysis:* Utilized Python and R for statistical analysis, identifying key trends and correlations in flight test data to support design decisions. 
+*Reporting & Visualization:* Created detailed reports and dashboards using Tableau to visualize complex datasets, assisting engineering teams in interpreting results from flight tests and aerospace performance data. 
+*Collaboration:* Worked closely with engineers to derive actionable insights from data, contributing to system optimization and performance enhancements. *Database Management:* Managed large-scale databases, querying datasets stored in structured and unstructured formats, ensuring data accessibility and integrity.
+
 ---
 ### Certifications
 
